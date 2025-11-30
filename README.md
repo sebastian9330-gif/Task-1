@@ -61,7 +61,7 @@ Resultado
 Auque no está especificado en la unidad 1, la herramienta Github es muy interesante e importante para aquellos que queremos adoptar una menten de programador.
 Está primera unidad es el fundamento para iniciar a comprender el pensamiento algorítmico, en especial el comprender y utilizar el python como un lenguaje facil de usar.
 
-# Referencias de IA
+### Bibliografias
 
-ChatGPT: [Creación de ramas](https://chatgpt.com/s/t_6915448158708191b2bc0034200a8376).
-ChatGPT: [Crear mi primer readme](https://chatgpt.com/s/t_6916866f5fb48191942f7845c8a4c007).
+- ChatGPT: [Creación de ramas](https://chatgpt.com/s/t_6915448158708191b2bc0034200a8376).
+- ChatGPT: [Crear mi primer readme](https://chatgpt.com/s/t_6916866f5fb48191942f7845c8a4c007).
